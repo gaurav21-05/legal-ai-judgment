@@ -28,11 +28,6 @@ The system leverages Artificial Intelligence to:
 - Uses trained Machine Learning models
 - Provides confidence scores
 
-### 📚 Legal Research Support
-- Finds similar historical cases
-- Assists in legal decision-making
-- Saves research time
-
 ### 📝 Judgment Summarization
 - Generates concise summaries
 - Highlights important legal points
